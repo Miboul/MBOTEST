@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Habitation Clément",
-        "coordinates": [14.60181, -60.907],
+        "coordinates": [-60.907, 14.60181],
         "rhums": [
             "Clément Blanc 50 et 55°",
             "Clément Canne Bleue",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "name": "Distillerie Depaz",
-        "coordinates": [14.75757, -61.16541],
+        "coordinates": [-61.16541, 14.75757],
         "rhums": [
             "Depaz Blanc 50 et 55°",
             "Depaz VO",
@@ -36,7 +36,7 @@
     {
         "id": 3,
         "name": "Distillerie Fonds Préville / Rhums JM",
-        "coordinates": [14.86331, -61.13495],
+        "coordinates": [-61.13495, 14.86331],
         "rhums": [
             "JM Blanc 50 et 55°",
             "JM Terre Volcanique",
@@ -54,7 +54,7 @@
     {
         "id": 4,
         "name": "Distillerie Saint-James",
-        "coordinates": [14.78438, -60.99814],
+        "coordinates": [-60.99814, 14.78438],
         "rhums": [
                 "Saint James Royal Ambré",
                 "Saint James Impérial Blanc",
@@ -70,7 +70,7 @@
     {
         "id": 5,
         "name": "Habitation La Salle",
-        "coordinates": [14.77599, -60.9982],
+        "coordinates": [-60.9982, 14.77599],
         "rhums": [
             "Clément VSOP",
             "Clément Canne Bleue",
@@ -84,7 +84,7 @@
     {
         "id": 6,
         "name": "Distillerie La Mauny",
-        "coordinates": [14.50633, -60.90672],
+        "coordinates": [-60.90672, 14.50633],
         "rhums": [
             "LA MAUNY Blanc 50 et 55°",
             "LA MAUNY Blanc WOUJ",
@@ -100,7 +100,7 @@
     {
         "id": 7,
         "name": "Distillerie Neisson",
-        "coordinates": [14.70024, -61.17589],
+        "coordinates": [-61.17589, 14.70024],
         "rhums": [
             "Neisson Blanc 50 et  55°",
             "Neisson Blanc DEKOLAJ 52,5°",
@@ -117,7 +117,7 @@
     {
         "id": 8,
         "name": "Distillerie La Favorite",
-        "coordinates": [14.63539, -61.03458],
+        "coordinates": [-61.03458, 14.63539],
         "rhums": [
             "LA FAVORITE Blanc Coeur de Canne 50 et 55°",
             "LA FAVORITE Blanc l'Authentique",
@@ -141,7 +141,7 @@
     {
         "id": 9,
         "name": "Habitation A1710",
-        "coordinates": [14.58699, -60.87027],
+        "coordinates": [-60.87027, 14.58699],
         "rhums": [
             "A1710 Bête à feu",
             "A710 Diamond Rock",
@@ -162,7 +162,7 @@
     {
         "id": 10,
         "name": "Habitation Beauséjour / HBS",
-        "coordinates": [14.87282, -61.17348],
+        "coordinates": [-61.17348, 14.87282],
         "rhums": [
             "HBS Blanc Cuvée Décollage, Dame Jeanne, Sénateur, La Rivière, Le Voyageur",
             "HBS Blanc Cuvée du Bout du Monde",
@@ -176,7 +176,7 @@
     {
         "id": 11,
         "name": "Plantation Trois Rivières",
-        "coordinates": [14.47987, -60.96399],
+        "coordinates": [-60.96399, 14.47987],
         "rhums": [
             "Trois Rivères Blanc 50 et 55°",
             "Trois Rivières VSOP Réserve Spéciale",
@@ -192,7 +192,7 @@
     {
         "id": 12,
         "name": "Distillerie Dillon",
-        "coordinates": [14.61691, -61.04939],
+        "coordinates": [-61.04939, 14.61691],
         "rhums": [
             "DILLON Blanc - Agricole 50 et 55°",
             "DILLON Blanc - Farandole, Ti Fle Be",
@@ -208,7 +208,7 @@
     {
         "id": 13,
         "name": "Rhums Bally",
-        "coordinates": [14.78438, -60.99814],
+        "coordinates": [-60.99814, 14.78438],
         "rhums": [
             "BALLY Blanc 50 et 55°",
             "BALLY Paille",
@@ -227,7 +227,7 @@
     {
         "id": 14,
         "name": "Habitation Saint-Etienne / HSE",
-        "coordinates": [14.69006, -61.01364],
+        "coordinates": [-61.01364, 14.69006],
         "rhums": [
             "HSE Blanc 50 et 55°",
             "HSE Blanc Titouan LAMAZOU",
@@ -245,7 +245,7 @@
     {
         "id": 15,
         "name": "Rhums Hardy",
-        "coordinates": [14.7617, -60.91274],
+        "coordinates": [-60.91274, 14.7617],
         "rhums": [
             "Hardy Blanc 50 et 55°",
             "Hardy Paille de Tartane",
@@ -259,7 +259,7 @@
     {
         "id": 16,
         "name": "Rhums Braud et Quenesson",
-        "coordinates": [14.48329, -60.87384],
+        "coordinates": [-60.87384, 14.48329],
         "rhums": [
             "Rhum Blanc Braud et Quenesson 50, 55 et 59,2°",
             "Rhum Blanc Parcellaire L319-52",
@@ -273,7 +273,7 @@
     {
         "id": 17,
         "name": "Habitation Le Galion / Baie des trésors",
-        "coordinates": [14.72012, -60.96071],
+        "coordinates": [-60.96071, 14.72012],
         "rhums": [
             "Baie des Trésors Plein Soleil",
             "Baie des Trésors Fleurs du Vent",
@@ -288,7 +288,7 @@
     {
         "id": 18,
         "name": "Rhums Héritiers MADKAUD",
-        "coordinates": [14.78438, -60.99814],
+        "coordinates": [-60.99814, 14.78438],
         "rhums": [
             "MADKAUD Blanc Renaissance, Castelmore",
             "MADKAUD Vieux Renaissance, Castelmore",
@@ -302,7 +302,7 @@
     {
         "id": 19,
         "name": "Rhums Rhum SURVI",
-        "coordinates": [14.63539, -61.03458],
+        "coordinates": [-61.03458, 14.63539],
         "rhums": [
             "Rhum Blanc SURVI"
           ],
@@ -314,7 +314,7 @@
     {
         "id": 20,
         "name": "Distillerie du Simon",
-        "coordinates": [14.58937, -60.86777],
+        "coordinates": [-60.86777, 14.58937],
         "rhums": [
             "Rhum Blanc LA BELLE ALINE",
             "RHUM A1710",
@@ -328,7 +328,7 @@
     {
         "id": 21,
         "name": "Distillerie Usine du Galion",
-        "coordinates": [14.71755, -60.94737],
+        "coordinates": [-60.94737, 14.71755],
         "rhums": [
             "GALION Rhum Grand Arôme",
             "GALION Rhum Grand Fond Galion"
