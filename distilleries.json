@@ -12,7 +12,7 @@
             "Clément VSOP",
             "Clément XO"
           ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczNH-DVjR1GFzYpKp2ar505lDQWKucQ24HHoBVDrSMnMvwnM5-ZliMS9FA3kjWroQr5V7zWRNiuZxCfCUf-j14_PkmtnGvJ1yLLx3oXtpPfSo60cCRbcKkALIlw93-zt-1hl-ABzOAJNvB4W9hRRoeTt=w363-h139-s-no-gm?authuser=0",
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczPFfF0uv1bH3aR35BP0NqOP13Syl-l7VgfyJklvwShK0IDDAMfydYSFsQD5Nl0p7y8D5xim3NALV2XSsvmXd1zpPYvuBKs8IsivXpQWyqIBd4CNwIdVdwcwQc0z2jRnT5CP_8zWJAWnAFKNMTDIPzpj=w344-h344-s-no-gm?authuser=0",
         "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
         "siteWeb": "https://www.rhum-clement.com/",
         "description": "Fondée en 1887, l'Habitation Clément est célèbre pour son rhum agricole et son domaine historique. Elle offre une expérience unique mêlant patrimoine industriel et art contemporain."
@@ -53,19 +53,17 @@
     },
     {
         "id": 4,
-        "name": "Distillerie Saint-James",
+       "name": "Rhums Héritiers MADKAUD",
         "coordinates": [-60.99814, 14.78438],
         "rhums": [
-                "Saint James Royal Ambré",
-                "Saint James Impérial Blanc",
-                "Saint James VSOP",
-                "Saint James Cuvée Excellence",
-                "Saint James Hors d'âge"
-                ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczN3C4YucLB3lNDG8tL2zW-cmmCcznsL3Tqtcgo5LCi0nkYHAxCkCjRoLFjJSVMmUchbOifz_YM8DXo2NbLqKpeaXNUwZRLxm7zaKfIP6BavnfKthEgUAka7HrHVyWFzZWcGXyyRXaOTT-iWafGhji4G=w1080-h1080-s-no-gm?authuser=0",
+            "MADKAUD Blanc Renaissance, Castelmore",
+            "MADKAUD Vieux Renaissance, Castelmore",
+            "MADKAUD XO"
+          ],
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczN2fnbkklC3UvgmJnKLe_VD0yp2DAsYotAepP3pHQP7MKhGNyuVqU4Wh4L6hDBxGpVuzxUg9mDuMQyYUC1IZ_VmLpuu7jLN683OJlqeGOIx8DpOQC3TrV1rKoJH4k9vSaK6n-YSrcNlui9-hfqgkJRW=w600-h600-s-no-gm?authuser=0",
         "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
-        "siteWeb": "https://rhum-saintjames.com/",
-        "description": "Fondée en 1765, Saint-James est la plus ancienne distillerie de Martinique. Elle est connue pour ses rhums emblématiques et son musée du rhum, retraçant l'histoire de la production de rhum sur l'île."
+        "siteWeb": "https://www.rhum-madkaud.com/",
+        "description": "Les Héritiers MADKAUD perpétuent une tradition familiale de production de rhum. Leurs rhums sont le reflet d'un savoir-faire transmis de génération en génération."
     },
     {
         "id": 5,
@@ -116,27 +114,15 @@
     },
     {
         "id": 8,
-        "name": "Distillerie La Favorite",
+        "name": "Rhums Rhum SURVI",
         "coordinates": [-61.03458, 14.63539],
         "rhums": [
-            "LA FAVORITE Blanc Coeur de Canne 50 et 55°",
-            "LA FAVORITE Blanc l'Authentique",
-            "LA FAVORITE Brut de Colonne 72,5°",
-            "LA FAVORITE Blanc Tjé Kann, Bel Air, Plaisance, La Digue",
-            "LA FAVORITE Exploration N°2, 4, 6 et 7",
-            "LA FAVORITE Coeur de Canne 2 et 4 ans",
-            "LA FAVORITE Brière de l'Isle",
-            "LA FAVORITE Millésime 201x",
-            "LA FAVORITE Cuvée Privilège",
-            "LA FAVORITE La Part de l'Ange",
-            "LA FAVORITE LA FLIBUSTE"
-
-
+            "Rhum Blanc SURVI"
           ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczNsVAlkUg-oHDQvAYaMU6SypmcCzdAJq5ZfP8PkhSZ52fPCtxSTnGhubKp3_JwBgQ3u2D4dEXi-G0NygS0-ut39RMZu0CW0UmsLwO_MqNZKDxJwwduAVWI-dQ630xWF0ofrB5SLsBI1eBkHvjDjufeR=w1374-h1374-s-no-gm?authuser=0",
-       "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
-        "siteWeb": "https://rhum-lafavorite.com/",
-        "description": "La Distillerie La Favorite, fondée en 1842, est l'une des dernières distilleries familiales de Martinique. Elle produit des rhums agricoles d'exception, alliant tradition et innovation."
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczOkezeVYRX_G_IG2V7P1lRWURj3fd_WRIwjCtYF1G3_aqaFvAcfFDpq3_dvhwXIZfX_M3givpdF8CQMGiuoY3vo2RUQp1f-pkY3vJBGMi8oTuyeYbf4PSku-FxSca9e3A0vcMIyY2l_Jx2IeCzIww90=w434-h630-s-no-gm?authuser=0",
+        "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
+        "siteWeb": "https://www.instagram.com/christiandemontaguere/",    
+        "description": "Rhum SURVI est une marque émergente qui apporte une nouvelle vision à la production de rhum en Martinique. Leurs produits allient tradition et innovation."
     },
     {
         "id": 9,
@@ -200,7 +186,7 @@
             "DILLON VO, VSOP et XO",
             "DILLON Millésime"
           ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczMe1uNlT35jUeodg0QfEBWbTj9L9561R47zO42Qtn3octEvXRMy2jMsQszrNUCEzLoXOy6U-2vryA2IrN-B-R6upNveL-NlmIUK0-9jA6h4JzRlnhFOjcFGtVK_gAonlN3bTVg51cGpKhL_1VhfZoLa=w215-h77-s-no-gm?authuser=0",
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczN2NWRnvaW33TL6wn67iY9CzcjU4ziWRxzH6LH5fevedzxXhDkNwQqU4sLrNTtTLf369vXREWobuHujJ2mRZFJ4c0csHOTmCZVOFmu8ykv0r1GmxETbMtcUgQsxztuQK8tZLuB8oKvcFPemhvfshFBp=w310-h312-s-no-gm?authuser=0",
         "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
         "siteWeb": "https://www.rhums-dillon.com/",
         "description": "La Distillerie Dillon, fondée en 1928, produit des rhums agricoles de qualité. Située près de Fort-de-France, elle allie tradition et modernité dans sa production."
@@ -287,29 +273,41 @@
     },
     {
         "id": 18,
-        "name": "Rhums Héritiers MADKAUD",
+         "name": "Distillerie Saint-James",
         "coordinates": [-60.99814, 14.78438],
         "rhums": [
-            "MADKAUD Blanc Renaissance, Castelmore",
-            "MADKAUD Vieux Renaissance, Castelmore",
-            "MADKAUD XO"
-          ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczN2fnbkklC3UvgmJnKLe_VD0yp2DAsYotAepP3pHQP7MKhGNyuVqU4Wh4L6hDBxGpVuzxUg9mDuMQyYUC1IZ_VmLpuu7jLN683OJlqeGOIx8DpOQC3TrV1rKoJH4k9vSaK6n-YSrcNlui9-hfqgkJRW=w600-h600-s-no-gm?authuser=0",
+                "Saint James Royal Ambré",
+                "Saint James Impérial Blanc",
+                "Saint James VSOP",
+                "Saint James Cuvée Excellence",
+                "Saint James Hors d'âge"
+                ],
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczN3C4YucLB3lNDG8tL2zW-cmmCcznsL3Tqtcgo5LCi0nkYHAxCkCjRoLFjJSVMmUchbOifz_YM8DXo2NbLqKpeaXNUwZRLxm7zaKfIP6BavnfKthEgUAka7HrHVyWFzZWcGXyyRXaOTT-iWafGhji4G=w1080-h1080-s-no-gm?authuser=0",
         "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
-        "siteWeb": "https://www.rhum-madkaud.com/",
-        "description": "Les Héritiers MADKAUD perpétuent une tradition familiale de production de rhum. Leurs rhums sont le reflet d'un savoir-faire transmis de génération en génération."
+        "siteWeb": "https://rhum-saintjames.com/",
+        "description": "Fondée en 1765, Saint-James est la plus ancienne distillerie de Martinique. Elle est connue pour ses rhums emblématiques et son musée du rhum, retraçant l'histoire de la production de rhum sur l'île."
     },
     {
         "id": 19,
-        "name": "Rhums Rhum SURVI",
+        "name": "Distillerie La Favorite",
         "coordinates": [-61.03458, 14.63539],
         "rhums": [
-            "Rhum Blanc SURVI"
+            "LA FAVORITE Blanc Coeur de Canne 50 et 55°",
+            "LA FAVORITE Blanc l'Authentique",
+            "LA FAVORITE Brut de Colonne 72,5°",
+            "LA FAVORITE Blanc Tjé Kann, Bel Air, Plaisance, La Digue",
+            "LA FAVORITE Exploration N°2, 4, 6 et 7",
+            "LA FAVORITE Coeur de Canne 2 et 4 ans",
+            "LA FAVORITE Brière de l'Isle",
+            "LA FAVORITE Millésime 201x",
+            "LA FAVORITE Cuvée Privilège",
+            "LA FAVORITE La Part de l'Ange",
+            "LA FAVORITE LA FLIBUSTE"
           ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczOkezeVYRX_G_IG2V7P1lRWURj3fd_WRIwjCtYF1G3_aqaFvAcfFDpq3_dvhwXIZfX_M3givpdF8CQMGiuoY3vo2RUQp1f-pkY3vJBGMi8oTuyeYbf4PSku-FxSca9e3A0vcMIyY2l_Jx2IeCzIww90=w434-h630-s-no-gm?authuser=0",
-        "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
-        "siteWeb": "https://www.instagram.com/christiandemontaguere/",    
-        "description": "Rhum SURVI est une marque émergente qui apporte une nouvelle vision à la production de rhum en Martinique. Leurs produits allient tradition et innovation."
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczNsVAlkUg-oHDQvAYaMU6SypmcCzdAJq5ZfP8PkhSZ52fPCtxSTnGhubKp3_JwBgQ3u2D4dEXi-G0NygS0-ut39RMZu0CW0UmsLwO_MqNZKDxJwwduAVWI-dQ630xWF0ofrB5SLsBI1eBkHvjDjufeR=w1374-h1374-s-no-gm?authuser=0",
+       "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
+        "siteWeb": "https://rhum-lafavorite.com/",
+        "description": "La Distillerie La Favorite, fondée en 1842, est l'une des dernières distilleries familiales de Martinique. Elle produit des rhums agricoles d'exception, alliant tradition et innovation."
     },
     {
         "id": 20,
@@ -333,7 +331,7 @@
             "GALION Rhum Grand Arôme",
             "GALION Rhum Grand Fond Galion"
           ],
-        "logo": "https://lh3.googleusercontent.com/pw/AP1GczMvDkSTwTGH385lJql9-NoBCGp_zfxuJ2lIyN_8yd2OyccWnuackr9llYzgxTNS9IzFlCXUfAmRDj9fAzAhELbjQ3beFPJK8QUegSSQHQzQMlKdM0gmBGSr5-lL38kmyPxSj7Y7zP05agvohPMVS_-w=w300-h152-s-no-gm?authuser=0",
+        "logo": "https://lh3.googleusercontent.com/pw/AP1GczP4IdVEy3Kzcy5-BDogOuz3fgiabq5KfU4M98AiipmDk4We_Y5omuIiuTFiH2sarlFBV5YWzMECLhYVvH3paOJLeRTGtuB-r9Zl5KEJhWOcilGjDJT5VLPo_ssS2FYqVacdmUPPV0gUcIy9s4O_NqOe=w180-h180-s-no-gm?authuser=0",
         "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
         "siteWeb": "https://legalion.eu/la-boutique-du-galion/",
         "description": "L'Usine du Galion est la dernière sucrerie de Martinique encore en activité. En plus du sucre, elle produit des rhums traditionnels qui incarnent l'histoire de l'île."
