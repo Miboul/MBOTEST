@@ -5,8 +5,8 @@
       "name": "Habitation Clément",
       "country": "Martinique",
       "coordinates": [
-        -60.907,
-        14.60181
+        14.60181,
+        -60.907
       ],
       "rhums": [
         "Clément Blanc 50 et 55°",
@@ -26,8 +26,8 @@
       "name": "Distillerie Depaz",
       "country": "Martinique",
       "coordinates": [
-        -61.16541,
-        14.75757
+        14.75757,
+        -61.16541
       ],
       "rhums": [
         "Depaz Blanc 50 et 55°",
@@ -46,8 +46,8 @@
       "name": "Distillerie Fonds Préville / Rhums JM",
       "country": "Martinique",
       "coordinates": [
-        -61.13495,
-        14.86331
+        14.86331,
+        -61.13495
       ],
       "rhums": [
         "JM Blanc 50 et 55°",
@@ -67,8 +67,8 @@
       "name": "Rhums Héritiers MADKAUD",
       "country": "Martinique",
       "coordinates": [
-        -60.99814,
-        14.78438
+        14.78438,
+        -60.99814
       ],
       "rhums": [
         "MADKAUD Blanc Renaissance",
@@ -87,13 +87,12 @@
       "name": "Habitation La Salle",
       "country": "Martinique",
       "coordinates": [
-        -60.9982,
-        14.77599
+        14.77599,
+        -60.9982
       ],
       "rhums": [
-        "Clément VSOP",
-        "Clément Canne Bleue",
-        "Clément XO"
+        "Cuvée La Salle XO",
+        "Cuvée La Salle VSOP"
       ],
       "logo": "https://lh3.googleusercontent.com/pw/AP1GczPhEEK8a9A942KHKsfFXq3KTjHo8hwakmFoncGyseFphrnGN6VgyYa80Lm0_N8FKkviKU9ttuWwjr0QF6qXfOdcA6X8DicsHt5iNYgEbtCQW3WmqaQS_HxAHzj_S8SYS5hgrg37KsvqqQCiIW2svWak=w480-h480-s-no-gm?authuser=0",
       "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
@@ -105,8 +104,8 @@
       "name": "Distillerie La Mauny",
       "country": "Martinique",
       "coordinates": [
-        -60.90672,
-        14.50633
+        14.50633,
+        -60.90672
       ],
       "rhums": [
         "LA MAUNY Blanc 50 et 55°",
@@ -127,8 +126,8 @@
       "name": "Distillerie Neisson",
       "country": "Martinique",
       "coordinates": [
-        -61.17589,
-        14.70024
+        14.70024,
+        -61.17589
       ],
       "rhums": [
         "Neisson Blanc 50 et  55°",
@@ -149,8 +148,8 @@
       "name": "Rhums Rhum SURVI",
       "country": "Martinique",
       "coordinates": [
-        -61.03458,
-        14.63539
+        14.63539,
+        -61.03458
       ],
       "rhums": [
         "Rhum Blanc SURVI"
@@ -165,8 +164,8 @@
       "name": "Habitation A1710",
       "country": "Martinique",
       "coordinates": [
-        -60.87027,
-        14.58699
+        14.58699,
+        -60.87027
       ],
       "rhums": [
         "A1710 Bête à feu",
@@ -190,8 +189,8 @@
       "name": "Habitation Beauséjour / HBS",
       "country": "Martinique",
       "coordinates": [
-        -61.17348,
-        14.87282
+        14.87282,
+        -61.17348
       ],
       "rhums": [
         "HBS Blanc Cuvée Décollage",
@@ -212,8 +211,8 @@
       "name": "Plantation Trois Rivières",
       "country": "Martinique",
       "coordinates": [
-        -60.96399,
-        14.47987
+        14.47987,
+        -60.96399
       ],
       "rhums": [
         "Trois Rivères Blanc 50 et 55°",
@@ -232,8 +231,8 @@
       "name": "Distillerie Dillon",
       "country": "Martinique",
       "coordinates": [
-        -61.04939,
-        14.61691
+        14.61691,
+        -61.04939
       ],
       "rhums": [
         "DILLON Blanc - Agricole 50 et 55°",
@@ -254,8 +253,8 @@
       "name": "Rhums Bally",
       "country": "Martinique",
       "coordinates": [
-        -60.99814,
-        14.78438
+        14.78438,
+        -60.99814
       ],
       "rhums": [
         "BALLY Blanc 50 et 55°",
@@ -277,8 +276,8 @@
       "name": "Habitation Saint-Etienne / HSE",
       "country": "Martinique",
       "coordinates": [
-        -61.01364,
-        14.69006
+        14.69006,
+        -61.01364
       ],
       "rhums": [
         "HSE Blanc 50 et 55°",
@@ -305,8 +304,8 @@
       "name": "Rhums Hardy",
       "country": "Martinique",
       "coordinates": [
-        -60.91274,
-        14.7617
+        14.7617,
+        -60.91274
       ],
       "rhums": [
         "Hardy Blanc 50 et 55°",
@@ -323,8 +322,8 @@
       "name": "Rhums Braud et Quenesson",
       "country": "Martinique",
       "coordinates": [
-        -60.87384,
-        14.48329
+        14.48329,
+        -60.87384
       ],
       "rhums": [
         "Rhum Blanc Braud et Quenesson 50",
@@ -342,8 +341,8 @@
       "name": "Habitation Le Galion / Baie des trésors",
       "country": "Martinique",
       "coordinates": [
-        -60.96071,
-        14.72012
+        14.72012,
+        -60.96071
       ],
       "rhums": [
         "Baie des Trésors Plein Soleil",
@@ -361,8 +360,8 @@
       "name": "Distillerie Saint-James",
       "country": "Martinique",
       "coordinates": [
-        -60.99814,
-        14.78438
+        14.78438,
+        -60.99814
       ],
       "rhums": [
         "Saint James Royal Ambré",
@@ -381,8 +380,8 @@
       "name": "Distillerie La Favorite",
       "country": "Martinique",
       "coordinates": [
-        -61.03458,
-        14.63539
+        14.63539,
+        -61.03458
       ],
       "rhums": [
         "LA FAVORITE Blanc Coeur de Canne 50 et 55°",
@@ -412,8 +411,8 @@
       "name": "Distillerie du Simon",
       "country": "Martinique",
       "coordinates": [
-        -60.86777,
-        14.58937
+        14.58937,
+        -60.86777
       ],
       "rhums": [
         "Rhum Blanc LA BELLE ALINE",
@@ -430,8 +429,8 @@
       "name": "Distillerie Usine du Galion",
       "country": "Martinique",
       "coordinates": [
-        -60.94737,
-        14.71755
+        14.71755,
+        -60.94737
       ],
       "rhums": [
         "GALION Rhum Grand Arôme",
@@ -441,6 +440,214 @@
       "horaires": "Lun-Sam: 9h-17h, Dim: Fermé",
       "siteWeb": "https://legalion.eu/la-boutique-du-galion/",
       "description": "L'Usine du Galion est la dernière sucrerie de Martinique encore en activité. En plus du sucre, elle produit des rhums traditionnels qui incarnent l'histoire de l'île."
-    }
+    },
+    {
+      "id": 22,
+      "name": "Rhum Damoiseau",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.320722313544955,
+        -61.375476409503
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczNRQ5zXLIPJGlfHsH4wffLskIDNJu9qxqMjs6RSTtQj4QGLTNCqMAriMolvNdbg7jbdmNh1VNZKlIyH7yPlf546gfZDeO0YP37hn0yv8AxE69tghryhiBP5edIhpgb88OLuoI9EP68_mKD6KSYsg_Nj=w339-h218-s-no-gm?authuser=0",
+      "horaires": "Lun-Sam: 8h15-17h30, Dim: Fermé",
+      "siteWeb": "http://www.rhumdamoiseau.com",
+      "description": "A compléter"
+    },
+    {
+      "id": 23,
+      "name": "Rhum Montebello",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.175108738938302,
+        -61.595651313770766
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczPRgcv7JRUrlBQEEJzCNQsOyK8x9h6itcH6kon2__2tJU1xmzjEy-0PqMIpqvnH7Z7UwBOFtMTm3OkYqXR1Q_mG-8s04VDaos2H422C8C6UR9qc9M_SGGA8Tmx5RSdXpGCeSK-_xLPUiMsSiVXpHCxI=w100-h100-s-no-gm?authuser=0",
+      "horaires": "Lun-Ven: 8h30-16h30, Sam: 9h-13h, Dim: Fermé",
+      "siteWeb": "https://distillerie-montebello.fr/",
+      "description": "A compléter"
+    },
+    {
+      "id": 24,
+      "name": "Rhum Bologne",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.007495533118828,
+        -61.7376940197927
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczMg3SCuSqwZ8p__xtDq-27X2SAQjJJu1LH0LKVmHbMY6EHCTT12LmrujMnycVx3a77ZR9dYwuWdN-OGeikZzvDEtwiGrEx9WRsN__MxCqSupYSl7_8hvsWjs1pCNi_edrPSlY45HAHeYbOQArtfRDeS=w600-h600-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://www.rhumbologne.fr/",
+      "description": "A compléter"
+    },
+    {
+      "id": 25,
+      "name": "Maison Longueteau",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.085963365523536,
+        -61.573445991145746
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://photos.google.com/share/AF1QipOVvyJB8j0WQfTlx_53g7X_Jcieg4dml8B1Lr854YE-odtwf2nNFjPLcE78nbMvcA/photo/AF1QipPvMYN-qvJcahvnfnmG6U-oxypXAtTU3yZI-mSQ?key=Q09Tbi1FWndBd09uc1hJaGhsSzdxZmp0REw2MUlB",
+      "horaires": "Lun-Sam: 9h-18h, Dim: Fermé",
+      "siteWeb": "https://www.rhumlongueteau.fr/fr/",
+      "description": "A compléter"
+    },
+    {
+      "id": 26,
+      "name": "Rhum du Père LABAT",
+      "country": "Guadeloupe",
+      "coordinates": [
+        15.925191569821594,
+        -61.32220747377247
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczMU8WUThvM7xvdGXsBeO5fSfI3Oqy0J9tPBNpm0F8VrpOiD0K5ADeKnKGbU5Fqbn8U6aftURAzhH33bQnIayjPb1zsrblulL2-FmIxrdrm32JniRAppQm0CSN-5b9rgxR8GrHIS6RyYzmkogWNRRWLb=w600-h600-s-no-gm?authuser=0",
+      "horaires": "Lun-Sam: 7h-15h, Dim: 9h-13h",
+      "siteWeb": "https://www.facebook.com/rhumperelabat/?locale=fr_FR",
+      "description": "A compléter"
+    },
+    {
+      "id": 27,
+      "name": "Rhum Bielle",
+      "country": "Guadeloupe",
+      "coordinates": [
+        15.918012586002192,
+        -61.266266646969186
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczMPF0gohFpSwQw2ubZME3bl3FARlu4dFd1Ygb6eqSGTN9d9W05O7Zb7BDAAvWG0L1pqJ623mN2Iht1PpzZomnJYhI14N-Ls465vy_5vQabNfmkA0rR-BpFdWQPE2YVClxm0jwaSU9vBr5IoeL9H6ruL=w600-h600-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "http://www.rhumbielle.com",
+      "description": "A compléter"
+    },
+    {
+      "id": 28,
+      "name": "Habitation Bellevue",
+      "country": "Guadeloupe",
+      "coordinates": [
+        15.92621747630112,
+        -61.24183876231339
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczPIR8dbivWuyxpbhdIwS6sYjykZAEUKt3uIs7dXVK1wJQ5upPAzO2w60qZpgh9dJGqEkgs8mjifZ34IB1BHnvuiPtVsy0Nc0S3niDPCsrjC5Bcsfd_FOFWVQ5heo0m3KdaFt6EV-_9jc1FjwrKCuNDn=w600-h600-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://www.habitation-bellevue.com/",
+      "description": "A compléter"
+    },
+    {
+      "id": 29,
+      "name": "Distillerie Reimonenq",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.315537116825986,
+        -61.68881677579597
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczOD1Cf1mWkgBWgR9hfaU5ZsJJFWxdRuclD4-E52U-2LpF_3A5wGbiBEdUPyLYQf4R9UjUMno9ul7OZ3jZBx4Ekw2ueJ7adEjB2BfhxZx04d7siZAi5x1DKnRRNYSrr4nTpez3i4Ij-T7zpjtx8ZqKqL=w500-h500-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://rhum-reimonenq-musee.com/",
+      "description": "A compléter"
+    },
+    {
+      "id": 30,
+      "name": "Distillerie Séverin",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.2678148839543,
+        -61.69070795103917
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczObHBlH35vxpsfJa-oesTMi7hgMpBNMUIWQ9ZXJKEbFJu9P8hS3frRG2cxM016tWzuJLuhledTHpcv3mz_TmxtRtFGbt6kEidmZamp2vrFWhgBbKIHPgRdr5wfKFQKPyNjiicoJYOAbpTHuY4F0Jc_J=w280-h176-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "",
+      "description": "A compléter"
+    },
+    {
+      "id": 31,
+      "name": "Distillerie Bonne Mère",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.271014429354306,
+        -61.67522960255368
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczPHxsjQ9LWVAs5VqdlqBJ9H_VNnI3lndBPCSi2lMllJcwgt1U-CGzO3H9aFwjUbdHcGYkItI4E15G4jtEYkYJ5J30XrjeF99jI6OHadbckqk5aeelcaY9dzdA7AcgOpuzzZRNoo6cF-rPvLrWQmpKBQ=w792-h388-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://distilleriebonnemere.com/fr",
+      "description": "A compléter"
+    },
+    {
+      "id": 32,
+      "name": "Rhumerie Karukera",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.086568884768784,
+        -61.57147377374717
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczMFSpfBK28unzEC2WiOalP2adRrgwyxmm2WYHNe9g6ZJQ1TQgnYevc3yHv364QokQ_yu0-pG5nc7_c7-8sPNi5rM3cd7FfMjhl0JqshhwJ6xUKFlbkfXHrTxxUYbFT7Aexxb5cnuzajuM4DqWTkke4P=w900-h900-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://www.rhum-karukera.com/",
+      "description": "A compléter"
+    },
+    {
+      "id": 33,
+      "name": "Rhumerie Marsolle",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.2678148839543,
+        -61.69070795103917
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczPW66WM1odOzjgpx2mGb_Nc8YJZkLNCEaQ-VBj-BoxOJbHenbsKSMI85nYwnar0S-JQmTT1SjrFJZWpWNOwodY_JIznYLoK5Xj7LiKy2GUz0R4jUenS28PrDDo2_T-Xyrq8SZ2bG5N5cME0o3zlO3uq=w900-h900-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://www.marsolle.com/",
+      "description": "A compléter"
+    },
+    {
+      "id": 34,
+      "name": "Distillerie Papa Rouyo",
+      "country": "Guadeloupe",
+      "coordinates": [
+        16.12662239803599,
+        -61.57308501606859
+      ],
+      "rhums": [
+        "A compléter"
+      ],
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczObHBlH35vxpsfJa-oesTMi7hgMpBNMUIWQ9ZXJKEbFJu9P8hS3frRG2cxM016tWzuJLuhledTHpcv3mz_TmxtRtFGbt6kEidmZamp2vrFWhgBbKIHPgRdr5wfKFQKPyNjiicoJYOAbpTHuY4F0Jc_J=w280-h176-s-no-gm?authuser=0",
+      "horaires": "A compléter",
+      "siteWeb": "https://www.paparouyo.com/",
+      "description": "A compléter"
+    },
   ]
 }
